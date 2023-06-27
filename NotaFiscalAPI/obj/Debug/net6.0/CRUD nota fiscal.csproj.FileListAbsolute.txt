@@ -1,0 +1,101 @@
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\appsettings.Development.json
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\appsettings.json
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\CRUD nota fiscal.exe
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\CRUD nota fiscal.deps.json
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\CRUD nota fiscal.runtimeconfig.json
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\CRUD nota fiscal.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\CRUD nota fiscal.pdb
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\obj\Debug\net6.0\CRUD nota fiscal.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\obj\Debug\net6.0\CRUD nota fiscal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\obj\Debug\net6.0\CRUD nota fiscal.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\obj\Debug\net6.0\CRUD nota fiscal.AssemblyInfo.cs
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\obj\Debug\net6.0\CRUD nota fiscal.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\obj\Debug\net6.0\CRUD nota fiscal.MvcApplicationPartsAssemblyInfo.cs
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\obj\Debug\net6.0\CRUD nota fiscal.MvcApplicationPartsAssemblyInfo.cache
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\obj\Debug\net6.0\staticwebassets\msbuild.CRUD nota fiscal.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\obj\Debug\net6.0\staticwebassets\msbuild.build.CRUD nota fiscal.props
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CRUD nota fiscal.props
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CRUD nota fiscal.props
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\obj\Debug\net6.0\staticwebassets.build.json
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\obj\Debug\net6.0\staticwebassets.development.json
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\obj\Debug\net6.0\scopedcss\bundle\CRUD nota fiscal.styles.css
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\obj\Debug\net6.0\CRUD nota fiscal.csproj.CopyComplete
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\obj\Debug\net6.0\CRUD nota fiscal.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\obj\Debug\net6.0\refint\CRUD nota fiscal.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\obj\Debug\net6.0\CRUD nota fiscal.pdb
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\obj\Debug\net6.0\CRUD nota fiscal.genruntimeconfig.cache
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\obj\Debug\net6.0\ref\CRUD nota fiscal.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Azure.Core.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Azure.Identity.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\EntityFramework.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Humanizer.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\System.CodeDom.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\System.Text.Json.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Mapster.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Mapster.Core.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Mapster.DependencyInjection.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\Mapster.EFCore.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\AutoMapper.dll
+D:\Microsoft Visual Studio\source\repos\CRUD nota fiscal\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
